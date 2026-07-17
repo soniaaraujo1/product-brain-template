@@ -1,0 +1,5 @@
+.DS_Store
+**/.DS_Store
+
+# Microsoft Office lock/owner files (created when a doc is open)
+~$*
